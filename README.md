@@ -1,6 +1,6 @@
 # Source Code Lengkap - Kursus Lengkap Java dan Android Studio - Build 9 Apps
 
-Yang akan Anda pelajari
+## Yang akan Anda pelajari
 <ul>
 <li>Bahasa Java Programming</li>
 <li>Android Studio</li>
@@ -16,19 +16,22 @@ Yang akan Anda pelajari
 <li>Layout Xml Design</li>
 </ul>
 
-Kurikulum
-
+### Kurikulum
+<br>
+Download, Install and Configuration
+<br>
 >1. Download Software Android Studio Intellij, Sdk dan Nox Emulator
 >2. Yang akan Anda pelajari
-Bahasa Java Programming
-Android Studio
-Menampilkan dan Tambah Data
-Membuat Aplikasi dengan Web Api
-Membuat Aplikasi Video Online
-Membuat Aplikasi Mp3
-Database SQLite
-JSON WebServices
-Menggunakan Postman
-Java OOP
-Network Library Retrofit, Okhttp dan Volley
-Layout Xml Design
+>3. Bahasa Java Programming
+>4. Android Studio
+>5. Menampilkan dan Tambah Data
+>6. Membuat Aplikasi dengan Web Api
+>7. Membuat Aplikasi Video Online
+>8. Membuat Aplikasi Mp3
+>9. Database SQLite
+>10. JSON WebServices
+>11. Menggunakan Postman
+>12. Java OOP
+>13. Network Library Retrofit, Okhttp dan Volley
+>14. Layout Xml Design
+
