@@ -16,6 +16,8 @@
 <li>Layout Xml Design</li>
 </ul>
 
+### Update Konten Maret 2021 - Kuote Quotes (Advanced Level) 7 Jam 21 Menit
+
 ### Kurikulum
 
 <ul><li>Download, Install and Configuration</li></ul>
