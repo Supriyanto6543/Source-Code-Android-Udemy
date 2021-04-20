@@ -18,6 +18,8 @@
 
 ### Kurikulum
 
+<ol><li>Download, Install and Configuration</li></ol>
+
 >1. Download Software Android Studio Intellij, Sdk dan Nox Emulator
 >2. Yang akan Anda pelajari
 >3. Bahasa Java Programming
