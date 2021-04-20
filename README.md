@@ -18,7 +18,7 @@
 
 ### Kurikulum
 
-<ol><li>Download, Install and Configuration</li></ol>
+<ul><li>Download, Install and Configuration</li></ul>
 
 >1. Download Software Android Studio Intellij, Sdk dan Nox Emulator
 >2. Yang akan Anda pelajari
@@ -35,7 +35,7 @@
 >13. Network Library Retrofit, Okhttp dan Volley
 >14. Layout Xml Design
 
-<ol><li>Java Pemula dengan Intellij Idea</li></ol>
+<ul><li>Java Pemula dengan Intellij Idea</li></ul>
 
 >1. Get Started with Intellij Idea
 >2. Bahasa Java Dasar
@@ -57,3 +57,16 @@
 >18. Overriding pada Bahasa Java
 >19. For Manipulasi pada Bahasa Java
 >20. If Manipulasi pada Bahasa Java
+
+<ul><li>Konsep Dasar OOP</li></ul>
+
+>1. Cara Membuat Class dan Object
+>2. Mengganti Nilai Attribute dan Membuat Multiple Object
+>3. Membuat Constructor dan Menggunakan Constructor
+>4. Encapsulation Getter Setter
+>5. Inheritance Bahasa Java
+>6. Polymorphism Bahasa Java
+>7. Enum Nama hari di Java
+>8. ArrayList String For dan Sort
+>9. ArrayList String For dan sort
+>10. ArrayList dengan Class, Constructor dan Object
