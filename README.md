@@ -35,3 +35,25 @@
 >13. Network Library Retrofit, Okhttp dan Volley
 >14. Layout Xml Design
 
+<ol><li>Java Pemula dengan Intellij Idea</li></ol>
+
+>1. Get Started with Intellij Idea
+>2. Bahasa Java Dasar
+>3. Single dan Multiple Comment di Java
+>4. Type Data di Java
+>5. Variable di Bahasa Java
+>6. Type Casting Widening dan Narrowing Casting di Java
+>7. Operators Pada Bahasa Java
+>8. If Else Statement
+>9. Switch Statement
+>10. While Do While Statement
+>11. For Statement
+>12. Array Statement
+>13. Break dan Continue di dalam For statement
+>14. Exceptions Statement di Java
+>15. Multi Method pada Bahasa Java
+>16. Multi Method Lanjutan pada Bahasa Java
+>17. Overloading pada Bahasa Java
+>18. Overriding pada Bahasa Java
+>19. For Manipulasi pada Bahasa Java
+>20. If Manipulasi pada Bahasa Java
