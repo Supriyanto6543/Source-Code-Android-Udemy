@@ -70,3 +70,121 @@
 >8. ArrayList String For dan Sort
 >9. ArrayList String For dan sort
 >10. ArrayList dengan Class, Constructor dan Object
+
+<ul><li>Introduction and Get Started with Android Studio</li></ul>
+
+>1. Pengertian Android Studio dan Membuat Project Baru
+>2. Pengenalan Manifest
+>3. Pengenalan Membuat Directory dan Class Java
+>4. Pengenalan Drawable
+>5. Pengenalan Layout
+>6. Pengenalan Mipmap
+>7. Pengenalan Values, Color, String dan Style
+>8. Pengenalan Gradle Script dan Library
+
+<ul><li>XML Lanjutan dan Pembahasa</li></ul>
+
+>1. Perbedaan Coordinator Layout dan Constrain Layout
+>2. Penjelasan Relative Layout dan Attribute nya
+>3. Penjelasan Linear Layout dan Attribute nya
+>4. Penjelasan CardView
+>5. RecyclerView dan ListView
+>6. Nested Scroll View
+>7. Include dan Frame Layout
+>8. Text Input Layout dan Edit Text
+>9. Widget Component
+>10. Bottom Navigation View dan Menu Item
+>11. Toolbar dan Image View
+>12. Implementasi Fragment dan Xml
+>13. Implementasi Fragment dan Bottom Navigation View Event Click
+>14. Testing Apk dengan Emulator Nox
+
+<ul><li>Androi Studio Tutorial dengan Java</li></ul>
+
+>1. Membuat Project Baru
+>2. Penjelasan Tentang Find View By Id
+>3. Running Emulator Nox, SetOnClickListener, SnackBar dan Toast
+>4. For Statement Text View dan Debugging
+>5. For Statement Text View dan Append
+>6. Log Debugging
+>7. Activity Life Cycle Android
+>8. Splash Screen
+>9. Intent Berpindah Activity
+>10. Intent Filter Gmail, Web dan WebSearch
+>11. Try Catch Statement
+>12. Menghandle Activity Intent dengan finish()
+>13. Alert Dialog Builder Positif Negative Button
+>14. Memahami Fragment Lebih Dalam
+>15. Mengubah Text Keren di Android
+>16. Notification Manager Android App
+>17. Menampilkan Gambar dari Internet dengan Picasso Library
+>18. Webview Load Data
+>19. Webview Client Handle
+
+<ul><li>Android Adapter, Modal dan Recycler View</li></ul>
+
+>1. Membuat Class Adapter
+>2. Mendesain Tampilan Xml Adapter
+>3. Cardview Adapter Xml
+>4. Membuat Modal Constructor dan Encapsulation
+>5. Menampilkan Data dengan RecyclerView Part#1
+>6. Menampilkan Data dengan RecyclerView Part#2
+
+<ul><li>Pengenalan JSON Object JSON Array</li></ul>
+
+>1. Pengenalan JSON Object
+>2. Pengenalan JSON Array
+>3. JSON Object Request dengan OK Http
+>4. JSON Array Request dengan OK Http
+>5. JSON Object Request dengan Volley
+>6. JSON Array Request dengan Volley
+
+<ul><li>Android Networking dan Async</li></ul>
+
+>1. Networking Check Internet Available
+>2. Networking Check Connect to WWW
+>3. Async Memanggil JSON Object
+>4. Async Memanggil Multiple JSON
+
+<ul><li>POSTMAN dan JSON API</li></ul>
+
+>1. Download dan Install Postman
+>2. Mengirim Data Lewat Postman ke Database
+>3. Mengambil Data List User Github
+
+<ul><li>Android Multimedia</li></ul>
+
+>1. Membuat Project Baru
+>2. Adding Library dan Membuat Video Player
+>3. Coding dan Testing App VideoKu
+>4. Membuat Project Baru Mp3
+>5. Coding App Mp3
+
+<ul><li>Android Database SQL</li></ul>
+
+>1. Download dan Install DB Browser for SQLite
+>2. Membuat Project App Database SQL
+>3. Membuat Design Form Input Data dan List Data
+>4. Membuat Layout Adapter Input Data
+>5. Membuat Database SQLite Open Helper Android
+>6. Membuat Method Tambah Data
+>7. Membuat Method Tampilkan Semua User di Database
+>8. Membuat Adapter List Semua Data
+>9. Coding Tambah Data User dan Testing
+>10. Coding Menampilkan Semua List User
+
+<ul><li>JAVA Lanjutan Membuat Aplikasi Buku</li></ul>
+
+>1. Membuat Project Drawer Layout
+>2. Merubah Background Header, Icon dan Text di Drawer Layout
+>3. Membuat Adapter, Constructor dan Encapsulation
+>4. Adding Library dan Membuat Design Adapter
+>5. Melakukan Instansiasi dan Call Json Object
+>6. Menampilkan List Data Buku dari Database
+
+<ul><li>Json Editor Online</li></ul>
+
+>1. Pengenalan JSON EDITOR ONLINE
+>2. Cara Menggunakan JSON EDITOR ONLINE
+
+
