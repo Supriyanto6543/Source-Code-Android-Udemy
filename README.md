@@ -18,9 +18,8 @@ Yang akan Anda pelajari
 
 Kurikulum
 
-
-Download Software Android Studio Intellij, Sdk dan Nox Emulator
-Yang akan Anda pelajari
+>1. Download Software Android Studio Intellij, Sdk dan Nox Emulator
+>2. Yang akan Anda pelajari
 Bahasa Java Programming
 Android Studio
 Menampilkan dan Tambah Data
