@@ -187,4 +187,50 @@
 >1. Pengenalan JSON EDITOR ONLINE
 >2. Cara Menggunakan JSON EDITOR ONLINE
 
+<ul><li>Pengenalan Retrofit</li></ul>
 
+>1. Pengenalan Retrofit
+>2. Pengenalan Library Universal Image Loader
+>3. Membuat Project Baru
+>4. Serialized Name Memanggil SJON
+>5. Membuat Retrofit Instance dan Interface
+>6. Testing Json Object dengan Retrofit
+
+<ul><li>Membuat Aplikasi Berita</li></ul>
+
+>1. Membuat Project Android News App
+>2. Adding Library Component pada Project
+>3. Register Account di NEWS API
+>4. Testing API News di JSON EDITOR ONLINE
+>5. Membuat RetrofitJson Class News dan News List Item
+>6. Membuat RetrofitConfig Instance
+>7. Membuat Method SSL Sertifikat Support HTTPS
+>8. Testing dan Debugging Request JSON
+>9. Membuat Class Adapter
+>10. Membuat Design Layout Adapter Xml
+>11. Menampilkan Data Json dengan RecyclerView 
+>12. Membuat Event Click di RecyclerView Detail News
+>13. Membuat Activity Detail News App
+>14. Membuat Load Url Detail News
+>15. Membuat Bottom Navigation View News
+>16. Membuat Menu Item dan Class Fragment
+>17. Membuat Action Request pada Fragment
+>18. Bottom Navigation View Click Fragment
+>19. Membuat Category News
+>20. Membuat News Detail Category
+>21. Membuat Event Click Id pada Category
+>22. Request JSON News Category By Category
+>23. Menampilkan Adapter Category News
+>24. Menambahkan ProgresBar SpinKit View
+>25. Membuat Tampilan About
+
+<ul><li>Push Project ke Github</li></ul>
+
+>1. Cara Daftar Github
+>2. Download, Install dan Configure GIT
+>3. Push Project Android ke Github
+
+<ul><li>Generate App dan Upload ke Playstore</li></ul>
+
+>1. Cara Membuat File Apk atau Generate Signed Apk
+>2. Cara Upload Aplikasi ke Google Play Store
